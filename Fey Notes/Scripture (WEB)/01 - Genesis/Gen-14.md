@@ -1,6 +1,6 @@
 # Genesis 14
 
-[[Gen-13|← Genesis 13]] | [[Genesis]] | [[Gen-15|Genesis 15 →]]
+[[Gen-13|← Genesis 13]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-15|Genesis 15 →]]
 ***
 
 
@@ -78,4 +78,4 @@ that I will not take a thread nor a sandal strap nor anything that is yours, les
 I will accept nothing from you except that which the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre. Let them take their portion."
 
 ***
-[[Gen-13|← Genesis 13]] | [[Genesis]] | [[Gen-15|Genesis 15 →]]
+[[Gen-13|← Genesis 13]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-15|Genesis 15 →]]

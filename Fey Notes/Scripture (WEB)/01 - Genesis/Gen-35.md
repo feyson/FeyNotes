@@ -1,6 +1,6 @@
 # Genesis 35
 
-[[Gen-34|← Genesis 34]] | [[Genesis]] | [[Gen-36|Genesis 36 →]]
+[[Gen-34|← Genesis 34]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-36|Genesis 36 →]]
 ***
 
 
@@ -93,4 +93,4 @@ The days of Isaac were one hundred eighty years.
 Isaac gave up the spirit and died, and was gathered to his people, old and full of days. Esau and Jacob, his sons, buried him.
 
 ***
-[[Gen-34|← Genesis 34]] | [[Genesis]] | [[Gen-36|Genesis 36 →]]
+[[Gen-34|← Genesis 34]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-36|Genesis 36 →]]

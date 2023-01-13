@@ -1,6 +1,6 @@
 # Genesis 50
 
-[[Gen-49|← Genesis 49]] | [[Genesis]]
+[[Gen-49|← Genesis 49]] | [[Scripture (WEB)/01 - Genesis/Genesis]]
 ***
 
 ###### v1
@@ -82,4 +82,4 @@ Joseph took an oath from the children of Israel, saying, "God will surely visit 
 So Joseph died, being one hundred ten years old, and they embalmed him, and he was put in a coffin in Egypt.
 
 ***
-[[Gen-49|← Genesis 49]] | [[Genesis]]
+[[Gen-49|← Genesis 49]] | [[Scripture (WEB)/01 - Genesis/Genesis]]

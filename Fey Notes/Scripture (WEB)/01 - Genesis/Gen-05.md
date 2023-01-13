@@ -1,6 +1,6 @@
 # Genesis 5
 
-[[Gen-04|← Genesis 04]] | [[Genesis]] | [[Gen-06|Genesis 06 →]]
+[[Gen-04|← Genesis 04]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-06|Genesis 06 →]]
 ***
 
 
@@ -102,4 +102,4 @@ All the days of Lamech were seven hundred seventy-seven years, then he died.
 Noah was five hundred years old, then Noah became the father of Shem, Ham, and Japheth.
 
 ***
-[[Gen-04|← Genesis 04]] | [[Genesis]] | [[Gen-06|Genesis 06 →]]
+[[Gen-04|← Genesis 04]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-06|Genesis 06 →]]

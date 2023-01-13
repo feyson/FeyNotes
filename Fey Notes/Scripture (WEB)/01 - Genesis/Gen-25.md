@@ -1,6 +1,6 @@
 # Genesis 25
 
-[[Gen-24|← Genesis 24]] | [[Genesis]] | [[Gen-26|Genesis 26 →]]
+[[Gen-24|← Genesis 24]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-26|Genesis 26 →]]
 ***
 
 
@@ -108,4 +108,4 @@ Jacob said, "Swear to me first." He swore to him. He sold his birthright to Jaco
 Jacob gave Esau bread and lentil stew. He ate and drank, rose up, and went his way. So Esau despised his birthright.
 
 ***
-[[Gen-24|← Genesis 24]] | [[Genesis]] | [[Gen-26|Genesis 26 →]]
+[[Gen-24|← Genesis 24]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-26|Genesis 26 →]]

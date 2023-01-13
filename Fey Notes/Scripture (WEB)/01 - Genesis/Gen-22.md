@@ -1,6 +1,6 @@
 # Genesis 22
 
-[[Gen-21|← Genesis 21]] | [[Genesis]] | [[Gen-23|Genesis 23 →]]
+[[Gen-21|← Genesis 21]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-23|Genesis 23 →]]
 ***
 
 
@@ -78,4 +78,4 @@ Bethuel became the father of Rebekah. These eight Milcah bore to Nahor, Abraham'
 His concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.
 
 ***
-[[Gen-21|← Genesis 21]] | [[Genesis]] | [[Gen-23|Genesis 23 →]]
+[[Gen-21|← Genesis 21]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-23|Genesis 23 →]]

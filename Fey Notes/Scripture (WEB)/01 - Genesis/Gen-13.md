@@ -1,6 +1,6 @@
 # Genesis 13
 
-[[Gen-12|← Genesis 12]] | [[Genesis]] | [[Gen-14|Genesis 14 →]]
+[[Gen-12|← Genesis 12]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-14|Genesis 14 →]]
 ***
 
 
@@ -60,4 +60,4 @@ Arise, walk through the land in its length and in its width; for I will give it 
 Abram moved his tent, and came and lived by the oaks of Mamre, which are in Hebron, and built an altar there to Yahweh.
 
 ***
-[[Gen-12|← Genesis 12]] | [[Genesis]] | [[Gen-14|Genesis 14 →]]
+[[Gen-12|← Genesis 12]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-14|Genesis 14 →]]

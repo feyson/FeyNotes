@@ -1,6 +1,6 @@
 # Genesis 41
 
-[[Gen-40|← Genesis 40]] | [[Genesis]] | [[Gen-42|Genesis 42 →]]
+[[Gen-40|← Genesis 40]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-42|Genesis 42 →]]
 ***
 
 
@@ -177,4 +177,4 @@ The famine was over all the surface of the earth. Joseph opened all the store ho
 All countries came into Egypt, to Joseph, to buy grain, because the famine was severe in all the earth.
 
 ***
-[[Gen-40|← Genesis 40]] | [[Genesis]] | [[Gen-42|Genesis 42 →]]
+[[Gen-40|← Genesis 40]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-42|Genesis 42 →]]

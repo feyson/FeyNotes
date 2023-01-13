@@ -1,6 +1,6 @@
 # Genesis 2
 
-[[Gen-01|← Genesis 01]] | [[Genesis]] | [[Gen-03|Genesis 03 →]]
+[[Gen-01|← Genesis 01]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-03|Genesis 03 →]]
 ***
 
 ###### v1
@@ -79,4 +79,4 @@ Therefore a man will leave his father and his mother, and will join with his wif
 The man and his wife were both naked, and they were not ashamed.
 
 ***
-[[Gen-01|← Genesis 01]] | [[Genesis]] | [[Gen-03|Genesis 03 →]]
+[[Gen-01|← Genesis 01]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-03|Genesis 03 →]]

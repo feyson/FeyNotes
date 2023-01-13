@@ -1,6 +1,6 @@
 # Genesis 30
 
-[[Gen-29|← Genesis 29]] | [[Genesis]] | [[Gen-31|Genesis 31 →]]
+[[Gen-29|← Genesis 29]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-31|Genesis 31 →]]
 ***
 
 
@@ -135,4 +135,4 @@ but when the flock were feeble, he didn't put them in. So the feebler were Laban
 The man increased exceedingly, and had large flocks, female servants and male servants, and camels and donkeys.
 
 ***
-[[Gen-29|← Genesis 29]] | [[Genesis]] | [[Gen-31|Genesis 31 →]]
+[[Gen-29|← Genesis 29]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-31|Genesis 31 →]]

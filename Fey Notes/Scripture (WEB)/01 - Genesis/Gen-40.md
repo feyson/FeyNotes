@@ -1,6 +1,6 @@
 # Genesis 40
 
-[[Gen-39|← Genesis 39]] | [[Genesis]] | [[Gen-41|Genesis 41 →]]
+[[Gen-39|← Genesis 39]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-41|Genesis 41 →]]
 ***
 
 
@@ -75,4 +75,4 @@ but he hanged the chief baker, as Joseph had interpreted to them.
 Yet the chief cup bearer didn't remember Joseph, but forgot him.
 
 ***
-[[Gen-39|← Genesis 39]] | [[Genesis]] | [[Gen-41|Genesis 41 →]]
+[[Gen-39|← Genesis 39]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-41|Genesis 41 →]]

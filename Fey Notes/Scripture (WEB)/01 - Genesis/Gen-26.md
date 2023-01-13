@@ -1,6 +1,6 @@
 # Genesis 26
 
-[[Gen-25|← Genesis 25]] | [[Genesis]] | [[Gen-27|Genesis 27 →]]
+[[Gen-25|← Genesis 25]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-27|Genesis 27 →]]
 ***
 
 
@@ -111,4 +111,4 @@ When Esau was forty years old, he took as wife Judith, the daughter of Beeri the
 They grieved Isaac's and Rebekah's spirits.
 
 ***
-[[Gen-25|← Genesis 25]] | [[Genesis]] | [[Gen-27|Genesis 27 →]]
+[[Gen-25|← Genesis 25]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-27|Genesis 27 →]]

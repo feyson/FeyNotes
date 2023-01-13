@@ -1,6 +1,6 @@
 # Genesis 49
 
-[[Gen-48|← Genesis 48]] | [[Genesis]] | [[Gen-50|Genesis 50 →]]
+[[Gen-48|← Genesis 48]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-50|Genesis 50 →]]
 ***
 
 
@@ -105,4 +105,4 @@ the field and the cave that is therein, which was purchased from the children of
 When Jacob finished charging his sons, he gathered up his feet into the bed, breathed his last breath, and was gathered to his people.
 
 ***
-[[Gen-48|← Genesis 48]] | [[Genesis]] | [[Gen-50|Genesis 50 →]]
+[[Gen-48|← Genesis 48]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-50|Genesis 50 →]]

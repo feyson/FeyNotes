@@ -1,6 +1,6 @@
 # Genesis 21
 
-[[Gen-20|← Genesis 20]] | [[Genesis]] | [[Gen-22|Genesis 22 →]]
+[[Gen-20|← Genesis 20]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-22|Genesis 22 →]]
 ***
 
 
@@ -108,4 +108,4 @@ Abraham planted a tamarisk tree in Beersheba, and there he called on the name of
 Abraham lived as a foreigner in the land of the Philistines many days.
 
 ***
-[[Gen-20|← Genesis 20]] | [[Genesis]] | [[Gen-22|Genesis 22 →]]
+[[Gen-20|← Genesis 20]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-22|Genesis 22 →]]

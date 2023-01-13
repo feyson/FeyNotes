@@ -1,6 +1,6 @@
 # Genesis 19
 
-[[Gen-18|← Genesis 18]] | [[Genesis]] | [[Gen-20|Genesis 20 →]]
+[[Gen-18|← Genesis 18]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-20|Genesis 20 →]]
 ***
 
 
@@ -120,4 +120,4 @@ The firstborn bore a son, and named him Moab. He is the father of the Moabites t
 The younger also bore a son, and called his name Ben Ammi. He is the father of the children of Ammon to this day.
 
 ***
-[[Gen-18|← Genesis 18]] | [[Genesis]] | [[Gen-20|Genesis 20 →]]
+[[Gen-18|← Genesis 18]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-20|Genesis 20 →]]

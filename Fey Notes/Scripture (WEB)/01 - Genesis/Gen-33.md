@@ -1,6 +1,6 @@
 # Genesis 33
 
-[[Gen-32|← Genesis 32]] | [[Genesis]] | [[Gen-34|Genesis 34 →]]
+[[Gen-32|← Genesis 32]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-34|Genesis 34 →]]
 ***
 
 
@@ -66,4 +66,4 @@ He bought the parcel of ground where he had spread his tent, at the hand of the 
 He erected an altar there, and called it El Elohe Israel.
 
 ***
-[[Gen-32|← Genesis 32]] | [[Genesis]] | [[Gen-34|Genesis 34 →]]
+[[Gen-32|← Genesis 32]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-34|Genesis 34 →]]

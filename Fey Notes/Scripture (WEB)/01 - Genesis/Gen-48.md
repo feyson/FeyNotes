@@ -1,6 +1,6 @@
 # Genesis 48
 
-[[Gen-47|← Genesis 47]] | [[Genesis]] | [[Gen-49|Genesis 49 →]]
+[[Gen-47|← Genesis 47]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-49|Genesis 49 →]]
 ***
 
 
@@ -72,4 +72,4 @@ Israel said to Joseph, "Behold, I am dying, but God will be with you, and bring 
 Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow."
 
 ***
-[[Gen-47|← Genesis 47]] | [[Genesis]] | [[Gen-49|Genesis 49 →]]
+[[Gen-47|← Genesis 47]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-49|Genesis 49 →]]

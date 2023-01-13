@@ -1,6 +1,6 @@
 # Genesis 1
 
-[[Genesis]] | [[Gen-02|Genesis 02 →]]
+[[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-02|Genesis 02 →]]
 ***
 
 ###### v1
@@ -97,4 +97,4 @@ To every animal of the earth, and to every bird of the sky, and to everything th
 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.
 
 ***
-[[Genesis]] | [[Gen-02|Genesis 02 →]]
+[[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-02|Genesis 02 →]]

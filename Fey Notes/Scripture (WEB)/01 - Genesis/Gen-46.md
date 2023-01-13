@@ -1,6 +1,6 @@
 # Genesis 46
 
-[[Gen-45|← Genesis 45]] | [[Genesis]] | [[Gen-47|Genesis 47 →]]
+[[Gen-45|← Genesis 45]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-47|Genesis 47 →]]
 ***
 
 
@@ -108,4 +108,4 @@ It will happen, when Pharaoh summons you, and will say, 'What is your occupation
 that you shall say, 'Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:' that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians."
 
 ***
-[[Gen-45|← Genesis 45]] | [[Genesis]] | [[Gen-47|Genesis 47 →]]
+[[Gen-45|← Genesis 45]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-47|Genesis 47 →]]

@@ -1,6 +1,6 @@
 # Genesis 8
 
-[[Gen-07|← Genesis 07]] | [[Genesis]] | [[Gen-09|Genesis 09 →]]
+[[Gen-07|← Genesis 07]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-09|Genesis 09 →]]
 ***
 
 ###### v1
@@ -70,4 +70,4 @@ Yahweh smelled the pleasant aroma. Yahweh said in his heart, "I will not again c
 While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease."
 
 ***
-[[Gen-07|← Genesis 07]] | [[Genesis]] | [[Gen-09|Genesis 09 →]]
+[[Gen-07|← Genesis 07]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-09|Genesis 09 →]]

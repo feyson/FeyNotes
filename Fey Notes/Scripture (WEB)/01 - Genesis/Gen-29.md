@@ -1,6 +1,6 @@
 # Genesis 29
 
-[[Gen-28|← Genesis 28]] | [[Genesis]] | [[Gen-30|Genesis 30 →]]
+[[Gen-28|← Genesis 28]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-30|Genesis 30 →]]
 ***
 
 
@@ -111,4 +111,4 @@ She conceived again, and bore a son. She said, "Now this time my husband will be
 She conceived again, and bore a son. She said, "This time I will praise Yahweh." Therefore she named him Judah. Then she stopped bearing.
 
 ***
-[[Gen-28|← Genesis 28]] | [[Genesis]] | [[Gen-30|Genesis 30 →]]
+[[Gen-28|← Genesis 28]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-30|Genesis 30 →]]

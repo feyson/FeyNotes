@@ -1,6 +1,6 @@
 # Genesis 24
 
-[[Gen-23|← Genesis 23]] | [[Genesis]] | [[Gen-25|Genesis 25 →]]
+[[Gen-23|← Genesis 23]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-25|Genesis 25 →]]
 ***
 
 
@@ -207,4 +207,4 @@ The servant told Isaac all the things that he had done.
 Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife. He loved her. So Isaac was comforted after his mother's death.
 
 ***
-[[Gen-23|← Genesis 23]] | [[Genesis]] | [[Gen-25|Genesis 25 →]]
+[[Gen-23|← Genesis 23]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-25|Genesis 25 →]]

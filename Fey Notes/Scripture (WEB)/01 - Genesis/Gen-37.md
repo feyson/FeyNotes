@@ -1,6 +1,6 @@
 # Genesis 37
 
-[[Gen-36|← Genesis 36]] | [[Genesis]] | [[Gen-38|Genesis 38 →]]
+[[Gen-36|← Genesis 36]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-38|Genesis 38 →]]
 ***
 
 
@@ -114,4 +114,4 @@ All his sons and all his daughters rose up to comfort him, but he refused to be 
 The Midianites sold him into Egypt to Potiphar, an officer of Pharaoh's, the captain of the guard.
 
 ***
-[[Gen-36|← Genesis 36]] | [[Genesis]] | [[Gen-38|Genesis 38 →]]
+[[Gen-36|← Genesis 36]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-38|Genesis 38 →]]

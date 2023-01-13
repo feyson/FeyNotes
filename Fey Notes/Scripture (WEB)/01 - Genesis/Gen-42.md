@@ -1,6 +1,6 @@
 # Genesis 42
 
-[[Gen-41|← Genesis 41]] | [[Genesis]] | [[Gen-43|Genesis 43 →]]
+[[Gen-41|← Genesis 41]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-43|Genesis 43 →]]
 ***
 
 
@@ -120,4 +120,4 @@ Reuben spoke to his father, saying, "Kill my two sons, if I don't bring him to y
 He said, "My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol."
 
 ***
-[[Gen-41|← Genesis 41]] | [[Genesis]] | [[Gen-43|Genesis 43 →]]
+[[Gen-41|← Genesis 41]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-43|Genesis 43 →]]

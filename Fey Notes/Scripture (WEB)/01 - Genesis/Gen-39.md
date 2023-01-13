@@ -1,6 +1,6 @@
 # Genesis 39
 
-[[Gen-38|← Genesis 38]] | [[Genesis]] | [[Gen-40|Genesis 40 →]]
+[[Gen-38|← Genesis 38]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-40|Genesis 40 →]]
 ***
 
 
@@ -75,4 +75,4 @@ The keeper of the prison committed to Joseph's hand all the prisoners who were i
 The keeper of the prison didn't look after anything that was under his hand, because Yahweh was with him; and that which he did, Yahweh made it prosper.
 
 ***
-[[Gen-38|← Genesis 38]] | [[Genesis]] | [[Gen-40|Genesis 40 →]]
+[[Gen-38|← Genesis 38]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-40|Genesis 40 →]]

@@ -1,6 +1,6 @@
 # Genesis 38
 
-[[Gen-37|← Genesis 37]] | [[Genesis]] | [[Gen-39|Genesis 39 →]]
+[[Gen-37|← Genesis 37]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-39|Genesis 39 →]]
 ***
 
 
@@ -96,4 +96,4 @@ As he drew back his hand, behold, his brother came out, and she said, "Why have 
 Afterward his brother came out, who had the scarlet thread on his hand, and his name was called Zerah.
 
 ***
-[[Gen-37|← Genesis 37]] | [[Genesis]] | [[Gen-39|Genesis 39 →]]
+[[Gen-37|← Genesis 37]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-39|Genesis 39 →]]

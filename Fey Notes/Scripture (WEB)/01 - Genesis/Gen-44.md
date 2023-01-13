@@ -1,6 +1,6 @@
 # Genesis 44
 
-[[Gen-43|← Genesis 43]] | [[Genesis]] | [[Gen-45|Genesis 45 →]]
+[[Gen-43|← Genesis 43]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-45|Genesis 45 →]]
 ***
 
 
@@ -108,4 +108,4 @@ Now therefore, please let your servant stay instead of the boy, my lord's slave;
 For how will I go up to my father, if the boy isn't with me?--lest I see the evil that will come on my father."
 
 ***
-[[Gen-43|← Genesis 43]] | [[Genesis]] | [[Gen-45|Genesis 45 →]]
+[[Gen-43|← Genesis 43]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-45|Genesis 45 →]]

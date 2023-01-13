@@ -1,6 +1,6 @@
 # Genesis 10
 
-[[Gen-09|← Genesis 09]] | [[Genesis]] | [[Gen-11|Genesis 11 →]]
+[[Gen-09|← Genesis 09]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-11|Genesis 11 →]]
 ***
 
 
@@ -102,4 +102,4 @@ These are the sons of Shem, by their families, according to their languages, lan
 These are the families of the sons of Noah, by their generations, according to their nations. The nations divided from these in the earth after the flood.
 
 ***
-[[Gen-09|← Genesis 09]] | [[Genesis]] | [[Gen-11|Genesis 11 →]]
+[[Gen-09|← Genesis 09]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-11|Genesis 11 →]]

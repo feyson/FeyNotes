@@ -1,6 +1,6 @@
 # Genesis 31
 
-[[Gen-30|← Genesis 30]] | [[Genesis]] | [[Gen-32|Genesis 32 →]]
+[[Gen-30|← Genesis 30]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-32|Genesis 32 →]]
 ***
 
 
@@ -171,4 +171,4 @@ Jacob offered a sacrifice in the mountain, and called his relatives to eat bread
 Early in the morning, Laban rose up, and kissed his sons and his daughters, and blessed them. Laban departed and returned to his place.
 
 ***
-[[Gen-30|← Genesis 30]] | [[Genesis]] | [[Gen-32|Genesis 32 →]]
+[[Gen-30|← Genesis 30]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-32|Genesis 32 →]]

@@ -1,6 +1,6 @@
 # Genesis 18
 
-[[Gen-17|← Genesis 17]] | [[Genesis]] | [[Gen-19|Genesis 19 →]]
+[[Gen-17|← Genesis 17]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-19|Genesis 19 →]]
 ***
 
 
@@ -105,4 +105,4 @@ He said, "Oh don't let the Lord be angry, and I will speak just once more. What 
 Yahweh went his way as soon as he had finished communing with Abraham, and Abraham returned to his place.
 
 ***
-[[Gen-17|← Genesis 17]] | [[Genesis]] | [[Gen-19|Genesis 19 →]]
+[[Gen-17|← Genesis 17]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-19|Genesis 19 →]]

@@ -1,6 +1,6 @@
 # Genesis 32
 
-[[Gen-31|← Genesis 31]] | [[Genesis]] | [[Gen-33|Genesis 33 →]]
+[[Gen-31|← Genesis 31]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-33|Genesis 33 →]]
 ***
 
 
@@ -102,4 +102,4 @@ The sun rose on him as he passed over Peniel, and he limped because of his thigh
 Therefore the children of Israel don't eat the sinew of the hip, which is on the hollow of the thigh, to this day, because he touched the hollow of Jacob's thigh in the sinew of the hip.
 
 ***
-[[Gen-31|← Genesis 31]] | [[Genesis]] | [[Gen-33|Genesis 33 →]]
+[[Gen-31|← Genesis 31]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-33|Genesis 33 →]]

@@ -1,6 +1,6 @@
 # Genesis 47
 
-[[Gen-46|← Genesis 46]] | [[Genesis]] | [[Gen-48|Genesis 48 →]]
+[[Gen-46|← Genesis 46]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-48|Genesis 48 →]]
 ***
 
 
@@ -99,4 +99,4 @@ but when I sleep with my fathers, you shall carry me out of Egypt, and bury me i
 Israel said, "Swear to me," and he swore to him. Then Israel bowed himself on the bed's head.
 
 ***
-[[Gen-46|← Genesis 46]] | [[Genesis]] | [[Gen-48|Genesis 48 →]]
+[[Gen-46|← Genesis 46]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-48|Genesis 48 →]]

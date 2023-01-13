@@ -1,6 +1,6 @@
 # Genesis 12
 
-[[Gen-11|← Genesis 11]] | [[Genesis]] | [[Gen-13|Genesis 13 →]]
+[[Gen-11|← Genesis 11]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-13|Genesis 13 →]]
 ***
 
 
@@ -66,4 +66,4 @@ Why did you say, 'She is my sister,' so that I took her to be my wife? Now there
 Pharaoh commanded men concerning him, and they escorted him away with his wife and all that he had.
 
 ***
-[[Gen-11|← Genesis 11]] | [[Genesis]] | [[Gen-13|Genesis 13 →]]
+[[Gen-11|← Genesis 11]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-13|Genesis 13 →]]

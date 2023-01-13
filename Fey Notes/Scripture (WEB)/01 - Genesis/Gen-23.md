@@ -1,6 +1,6 @@
 # Genesis 23
 
-[[Gen-22|← Genesis 22]] | [[Genesis]] | [[Gen-24|Genesis 24 →]]
+[[Gen-22|← Genesis 22]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-24|Genesis 24 →]]
 ***
 
 
@@ -66,4 +66,4 @@ After this, Abraham buried Sarah his wife in the cave of the field of Machpelah 
 The field, and the cave that is in it, were deeded to Abraham by the children of Heth as a possession for a burial place.
 
 ***
-[[Gen-22|← Genesis 22]] | [[Genesis]] | [[Gen-24|Genesis 24 →]]
+[[Gen-22|← Genesis 22]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-24|Genesis 24 →]]

@@ -1,6 +1,6 @@
 # Genesis 36
 
-[[Gen-35|← Genesis 35]] | [[Genesis]] | [[Gen-37|Genesis 37 →]]
+[[Gen-35|← Genesis 35]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-37|Genesis 37 →]]
 ***
 
 
@@ -135,4 +135,4 @@ chief Kenaz, chief Teman, chief Mibzar,
 chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations in the land of their possession. This is Esau, the father of the Edomites.
 
 ***
-[[Gen-35|← Genesis 35]] | [[Genesis]] | [[Gen-37|Genesis 37 →]]
+[[Gen-35|← Genesis 35]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-37|Genesis 37 →]]

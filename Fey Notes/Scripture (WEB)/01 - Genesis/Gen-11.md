@@ -1,6 +1,6 @@
 # Genesis 11
 
-[[Gen-10|← Genesis 10]] | [[Genesis]] | [[Gen-12|Genesis 12 →]]
+[[Gen-10|← Genesis 10]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-12|Genesis 12 →]]
 ***
 
 
@@ -102,4 +102,4 @@ Terah took Abram his son, Lot the son of Haran, his son's son, and Sarai his dau
 The days of Terah were two hundred five years. Terah died in Haran.
 
 ***
-[[Gen-10|← Genesis 10]] | [[Genesis]] | [[Gen-12|Genesis 12 →]]
+[[Gen-10|← Genesis 10]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-12|Genesis 12 →]]

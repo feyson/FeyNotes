@@ -1,6 +1,6 @@
 # Genesis 15
 
-[[Gen-14|← Genesis 14]] | [[Genesis]] | [[Gen-16|Genesis 16 →]]
+[[Gen-14|← Genesis 14]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-16|Genesis 16 →]]
 ***
 
 
@@ -69,4 +69,4 @@ the Hittites, the Perizzites, the Rephaim,
 the Amorites, the Canaanites, the Girgashites, and the Jebusites."
 
 ***
-[[Gen-14|← Genesis 14]] | [[Genesis]] | [[Gen-16|Genesis 16 →]]
+[[Gen-14|← Genesis 14]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-16|Genesis 16 →]]

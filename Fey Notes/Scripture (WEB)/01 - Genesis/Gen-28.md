@@ -1,6 +1,6 @@
 # Genesis 28
 
-[[Gen-27|← Genesis 27]] | [[Genesis]] | [[Gen-29|Genesis 29 →]]
+[[Gen-27|← Genesis 27]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-29|Genesis 29 →]]
 ***
 
 
@@ -72,4 +72,4 @@ so that I come again to my father's house in peace, and Yahweh will be my God,
 then this stone, which I have set up for a pillar, will be God's house. Of all that you will give me I will surely give a tenth to you."
 
 ***
-[[Gen-27|← Genesis 27]] | [[Genesis]] | [[Gen-29|Genesis 29 →]]
+[[Gen-27|← Genesis 27]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-29|Genesis 29 →]]

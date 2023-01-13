@@ -1,6 +1,6 @@
 # Genesis 3
 
-[[Gen-02|← Genesis 02]] | [[Genesis]] | [[Gen-04|Genesis 04 →]]
+[[Gen-02|← Genesis 02]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-04|Genesis 04 →]]
 ***
 
 
@@ -78,4 +78,4 @@ Therefore Yahweh God sent him out from the garden of Eden, to till the ground fr
 So he drove out the man; and he placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.
 
 ***
-[[Gen-02|← Genesis 02]] | [[Genesis]] | [[Gen-04|Genesis 04 →]]
+[[Gen-02|← Genesis 02]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-04|Genesis 04 →]]

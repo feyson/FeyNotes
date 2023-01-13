@@ -1,6 +1,6 @@
 # Genesis 34
 
-[[Gen-33|← Genesis 33]] | [[Genesis]] | [[Gen-35|Genesis 35 →]]
+[[Gen-33|← Genesis 33]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-35|Genesis 35 →]]
 ***
 
 
@@ -99,4 +99,4 @@ Jacob said to Simeon and Levi, "You have troubled me, to make me odious to the i
 They said, "Should he deal with our sister as with a prostitute?"
 
 ***
-[[Gen-33|← Genesis 33]] | [[Genesis]] | [[Gen-35|Genesis 35 →]]
+[[Gen-33|← Genesis 33]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-35|Genesis 35 →]]

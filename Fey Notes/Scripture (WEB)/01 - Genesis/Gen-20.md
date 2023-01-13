@@ -1,6 +1,6 @@
 # Genesis 20
 
-[[Gen-19|← Genesis 19]] | [[Genesis]] | [[Gen-21|Genesis 21 →]]
+[[Gen-19|← Genesis 19]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-21|Genesis 21 →]]
 ***
 
 
@@ -60,4 +60,4 @@ Abraham prayed to God. So God healed Abimelech, his wife, and his female servant
 For Yahweh had closed up tight all the wombs of the house of Abimelech, because of Sarah, Abraham's wife.
 
 ***
-[[Gen-19|← Genesis 19]] | [[Genesis]] | [[Gen-21|Genesis 21 →]]
+[[Gen-19|← Genesis 19]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-21|Genesis 21 →]]

@@ -1,6 +1,6 @@
 # Genesis 9
 
-[[Gen-08|← Genesis 08]] | [[Genesis]] | [[Gen-10|Genesis 10 →]]
+[[Gen-08|← Genesis 08]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-10|Genesis 10 →]]
 ***
 
 
@@ -93,4 +93,4 @@ Noah lived three hundred fifty years after the flood.
 All the days of Noah were nine hundred fifty years, and then he died.
 
 ***
-[[Gen-08|← Genesis 08]] | [[Genesis]] | [[Gen-10|Genesis 10 →]]
+[[Gen-08|← Genesis 08]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-10|Genesis 10 →]]

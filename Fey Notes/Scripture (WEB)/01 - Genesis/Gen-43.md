@@ -1,6 +1,6 @@
 # Genesis 43
 
-[[Gen-42|← Genesis 42]] | [[Genesis]] | [[Gen-44|Genesis 44 →]]
+[[Gen-42|← Genesis 42]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-44|Genesis 44 →]]
 ***
 
 
@@ -108,4 +108,4 @@ They sat before him, the firstborn according to his birthright, and the youngest
 He sent portions to them from before him, but Benjamin's portion was five times as much as any of theirs. They drank, and were merry with him.
 
 ***
-[[Gen-42|← Genesis 42]] | [[Genesis]] | [[Gen-44|Genesis 44 →]]
+[[Gen-42|← Genesis 42]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-44|Genesis 44 →]]

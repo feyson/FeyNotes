@@ -1,6 +1,6 @@
 # Genesis 17
 
-[[Gen-16|← Genesis 16]] | [[Genesis]] | [[Gen-18|Genesis 18 →]]
+[[Gen-16|← Genesis 16]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-18|Genesis 18 →]]
 ***
 
 
@@ -87,4 +87,4 @@ In the same day both Abraham and Ishmael, his son, were circumcised.
 All the men of his house, those born in the house, and those bought with money from a foreigner, were circumcised with him.
 
 ***
-[[Gen-16|← Genesis 16]] | [[Genesis]] | [[Gen-18|Genesis 18 →]]
+[[Gen-16|← Genesis 16]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-18|Genesis 18 →]]

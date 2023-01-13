@@ -1,6 +1,6 @@
 # Genesis 16
 
-[[Gen-15|← Genesis 15]] | [[Genesis]] | [[Gen-17|Genesis 17 →]]
+[[Gen-15|← Genesis 15]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-17|Genesis 17 →]]
 ***
 
 
@@ -54,4 +54,4 @@ Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, I
 Abram was eighty-six years old when Hagar bore Ishmael to Abram.
 
 ***
-[[Gen-15|← Genesis 15]] | [[Genesis]] | [[Gen-17|Genesis 17 →]]
+[[Gen-15|← Genesis 15]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-17|Genesis 17 →]]

@@ -1,6 +1,6 @@
 # Genesis 45
 
-[[Gen-44|← Genesis 44]] | [[Genesis]] | [[Gen-46|Genesis 46 →]]
+[[Gen-44|← Genesis 44]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-46|Genesis 46 →]]
 ***
 
 
@@ -90,4 +90,4 @@ They told him all the words of Joseph, which he had said to them. When he saw th
 Israel said, "It is enough. Joseph my son is still alive. I will go and see him before I die."
 
 ***
-[[Gen-44|← Genesis 44]] | [[Genesis]] | [[Gen-46|Genesis 46 →]]
+[[Gen-44|← Genesis 44]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-46|Genesis 46 →]]

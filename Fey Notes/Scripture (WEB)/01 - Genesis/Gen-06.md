@@ -1,6 +1,6 @@
 # Genesis 6
 
-[[Gen-05|← Genesis 05]] | [[Genesis]] | [[Gen-07|Genesis 07 →]]
+[[Gen-05|← Genesis 05]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-07|Genesis 07 →]]
 ***
 
 
@@ -72,4 +72,4 @@ Take with you some of all food that is eaten, and gather it to yourself; and it 
 Thus Noah did. He did all that God commanded him.
 
 ***
-[[Gen-05|← Genesis 05]] | [[Genesis]] | [[Gen-07|Genesis 07 →]]
+[[Gen-05|← Genesis 05]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-07|Genesis 07 →]]

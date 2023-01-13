@@ -1,6 +1,6 @@
 # Genesis 7
 
-[[Gen-06|← Genesis 06]] | [[Genesis]] | [[Gen-08|Genesis 08 →]]
+[[Gen-06|← Genesis 06]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-08|Genesis 08 →]]
 ***
 
 
@@ -78,4 +78,4 @@ Every living thing was destroyed that was on the surface of the ground, includin
 The waters flooded the earth one hundred fifty days.
 
 ***
-[[Gen-06|← Genesis 06]] | [[Genesis]] | [[Gen-08|Genesis 08 →]]
+[[Gen-06|← Genesis 06]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-08|Genesis 08 →]]

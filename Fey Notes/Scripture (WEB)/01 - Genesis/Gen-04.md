@@ -1,6 +1,6 @@
 # Genesis 4
 
-[[Gen-03|← Genesis 03]] | [[Genesis]] | [[Gen-05|Genesis 05 →]]
+[[Gen-03|← Genesis 03]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-05|Genesis 05 →]]
 ***
 
 
@@ -84,4 +84,4 @@ Adam knew his wife again. She gave birth to a son, and named him Seth, saying, "
 A son was also born to Seth, and he named him Enosh. At that time men began to call on Yahweh's name.
 
 ***
-[[Gen-03|← Genesis 03]] | [[Genesis]] | [[Gen-05|Genesis 05 →]]
+[[Gen-03|← Genesis 03]] | [[Scripture (WEB)/01 - Genesis/Genesis]] | [[Gen-05|Genesis 05 →]]
