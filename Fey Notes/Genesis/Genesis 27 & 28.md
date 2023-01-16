@@ -2,7 +2,7 @@
 # Study: 
 
 ## Central passage summary:
-
+Jacob, led by Rebekah, worked through deception to gain the very blessing that God had already promised for Jacob through his father Isaac by pretending to be his brother Esau and trading food for a blessing. Jacob Jacob-ed his brother of Isaac's blessing for the chosen lineage of the snake crusher after having already jacob-ed him out of his birthright. Although he was supposed to image the ideals of his family line and trust the promises given to his family, he ended up being an image of the snake. Issac seems to lose steam as he passively leads his family, he doesn't seem to understand the blessing and creates his own limitations as he limits it to only one. Once again the chosen lineage seems to be an obstacle of what God is trying to achieve in the world instead of being a conduit of blessing. Rebekah then deceives Isaac again to allow Isaac to flee from his brother and find a wife in his brother's family. Along the way Jacob sleeps and has a vision of angelic beings ascending and descending on "him" (a ladder), as a sign of God's presence with him and God's commitment to fulfill his promises with him. Jacob responds with a condition that if God does as he says then he will be his God, still expressing his lack of trust in the promises God has given him and his family.
 
 ## Passage notes:
 
@@ -104,7 +104,8 @@ Jesus uses this image in 1 John 1:51:
 - 
 
 ## Unresolved problems:
-- Differences between firstborn &  Blessing 
+- Differences between firstborn & Blessing 
+- 
 
 # Discussion
 

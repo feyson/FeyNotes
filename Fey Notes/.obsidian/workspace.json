@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c11adda15aff3c8d",
+            "id": "9c9c841538a919dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian How 2's/8 important seettings in obsidian.md",
+                "file": "Genesis/Genesis 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "44dcd4c85d5ac2ea",
+            "id": "c7addb14ee52b093",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8dceae1f030d7851",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genesis/Genesis 27 & 28.md",
+                "file": "Genesis/Genesis 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genesis/Genesis 27 & 28.md",
+                "file": "Genesis/Genesis 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genesis/Genesis 27 & 28.md"
+                "file": "Genesis/Genesis 4.md"
               }
             }
           }
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,16 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44dcd4c85d5ac2ea",
+  "active": "9c9c841538a919dd",
   "lastOpenFiles": [
+    "Genesis/Genesis 3.md",
+    "Genesis/Genesis 2.md",
     "Genesis/Genesis 1.md",
-    "Genesis/Genesis 27 & 28.md",
-    "Obsidian How 2's/8 most important hot keys.md",
-    "Obsidian How 2's/Key Guides (Markdown).md",
     "Obsidian How 2's/8 important seettings in obsidian.md",
-    "Study Outline.md",
-    "Heb-1.md",
-    "Bible Project/How to Read the Bible/The Purpose of the Law.md",
-    "Biblical Themes/Firstborn.md"
+    "Genesis/Genesis 27 & 28.md",
+    "Scripture (WEB)/01 - Genesis/Gen-06.md",
+    "Scripture (WEB)/27 - Daniel/Dan-09.md",
+    "Scripture (WEB)/01 - Genesis/Gen-01.md",
+    "Obsidian How 2's/8 most important hot keys.md",
+    "Obsidian How 2's/Key Guides (Markdown).md"
   ]
 }
