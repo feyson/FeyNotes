@@ -12,6 +12,6 @@ Lists:
 - sadv
 
 headers: ??
-[[8 important seettings in obsidian]]
+[[8 important settings in obsidian]]
 #obsidian 
 

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c24cb43a81f11086",
+        "id": "65b4f03a9347fb94",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9c841538a919dd",
+            "id": "47d825f2c1769981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genesis/Genesis 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fa43c85ae5d62d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible Project/How to Read the Bible/The Law as a Covenantal Partnership.md",
+                "file": "Bible Project/How to Read the Bible/7) Difficult Laws.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#law",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible Project/How to Read the Bible/The Law as a Covenantal Partnership.md",
+                "file": "Bible Project/How to Read the Bible/7) Difficult Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible Project/How to Read the Bible/The Law as a Covenantal Partnership.md",
+                "file": "Bible Project/How to Read the Bible/7) Difficult Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible Project/How to Read the Bible/The Law as a Covenantal Partnership.md"
+                "file": "Bible Project/How to Read the Bible/7) Difficult Laws.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fa43c85ae5d62d2",
+  "active": "47d825f2c1769981",
   "lastOpenFiles": [
-    "Scripture (WEB)/02 - Exodus/Exod-20.md",
-    "Bible Project/How to Read the Bible/The Law as a Covenantal Partnership.md",
-    "Obsidian How 2's/Key Guides (Markdown).md",
-    "Obsidian How 2's/8 important seettings in obsidian.md",
-    "Obsidian How 2's/8 most important hot keys.md",
-    "Bible Project/How to Read the Bible/The Purpose of the Law.md",
-    "Genesis/Genesis 27 & 28.md",
-    "Genesis/Genesis 4.md",
-    "Genesis/Genesis 3.md",
-    "Genesis/Genesis 2.md"
+    "Scripture (WEB)/05 - Deuteronomy/Deut-15.md",
+    "Bible Project/How to Read the Bible/7) Difficult Laws.md",
+    "Scripture (WEB)/05 - Deuteronomy/Deut-23.md",
+    "Scripture (WEB)/05 - Deuteronomy/Deut-22.md",
+    "Genesis/Genesis 32 & 33.md",
+    "Bible Project/How to Read the Bible/6) Law Q & R.md",
+    "Bible Project/How to Read the Bible/1) The Purpose of the Law.md",
+    "Scripture (WEB)/05 - Deuteronomy/Deut-25.md",
+    "Bible Project/How to Read the Bible/5) Jesus Fulfills the Law.md",
+    "Genesis/Genesis 29-31.md"
   ]
 }

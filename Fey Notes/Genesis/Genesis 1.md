@@ -1,3 +1,7 @@
+Answer this question: Why is Genesis 1 in your bible?
+	- God is trying to tell you something about his appointed times
+	- The sabbath day being a foreshadowing of the resurrection and the age to come
+
 **Chapter 1:** 
 
 When you

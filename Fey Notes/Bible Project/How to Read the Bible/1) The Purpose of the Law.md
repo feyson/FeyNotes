@@ -115,7 +115,7 @@ Like telling a teenager to "drive safely" but not teaching them how to, but it i
 - If Jesus is pulling from the law then, we should be pulling from the law as well.
 - to what extent?? To what extent do I love my neighbor can be described in the Law
 
-No human could pull it off, but God sent his on Son to do the part of Israel & humanity and #fulfill all the Law 
+No human could pull it off, but God sent his on Son to do the part of Israel & humanity and #fulfil all the Law 
 
 What do we do with this Law? What is the value to the Law for us now? 
 	- The Rabbi's and apostles were forced to go back to the "why", it's not a code book.
